@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+Started logging.
+2021/06/05 23:02:05 logging to c:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401\inols.log
+2021/06/05 23:02:05 Initial board configuration: {"Arduino Pro or Pro Mini" arduino:avr:pro}
+2021/06/05 23:02:05 Language server build path: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server617025019
+2021/06/05 23:02:05 Language server build sketch root: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server617025019\sketch
+2021/06/05 23:02:05 [92mIDE --> LS     CL: REQUEST initialize 0: [0m
+2021/06/05 23:02:05 IDE --> initialize 0 [93m locked[0m
+2021/06/05 23:02:05 IDE --> initialize 0 [93m unlocked[0m
+2021/06/05 23:02:05 [91mIDE <-- LS     CL: ANSWER UNBOUND (0): [0m
+2021/06/05 23:02:05 INIT--- initializing workbench
+2021/06/05 23:02:05 INIT--- [93m locked[0m
+2021/06/05 23:02:05     --> initialize(file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401)
+2021/06/05 23:02:05 [92mIDE --> LS     CL: NOTIFICATION initialized: [0m
+2021/06/05 23:02:05 running:  c:\00_Prog\arduino-ide_2.0.0-beta.7_Windows_64bit\resources\app\node_modules\arduino-ide-extension\build\arduino-cli.exe --config-file c:\Users\ILVZ\.arduinoIDE\arduino-cli.yaml compile --fqbn arduino:avr:pro --only-compilation-database --clean --source-override C:\Users\ILVZ\AppData\Local\Temp\723163934 --build-path C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server617025019 --format json C:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401
+2021/06/05 23:02:13 INIT--- initializing workbench (done)
+2021/06/05 23:02:13 INIT--- [93m unlocked[0m
+2021/06/05 23:02:13 IDE --> initialized notif1 [93m read-locked[0m
+2021/06/05 23:02:13 IDE --> initialized notif1 notification is not propagated to clangd
+2021/06/05 23:02:13 IDE --> initialized notif1 [93m read-unlocked[0m
+2021/06/05 23:02:13 [92mIDE --> LS     CL: NOTIFICATION textDocument/didOpen: [0m
+2021/06/05 23:02:13 IDE --> textDocument/didOpen notif2 [93m locked[0m
+2021/06/05 23:02:13 IDE --> textDocument/didOpen notif2 (throttled: waiting for clangd)
+2021/06/05 23:02:13 IDE --> textDocument/didOpen notif2 [93m unlocked (waiting clangd)[0m
+
+
+
+
+
+
+
+Started logging.
+2021/06/07 22:41:30 logging to c:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401\inols.log
+2021/06/07 22:41:30 Initial board configuration: {"Arduino Pro or Pro Mini" arduino:avr:pro}
+2021/06/07 22:41:30 Language server build path: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server458408143
+2021/06/07 22:41:30 Language server build sketch root: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server458408143\sketch
+2021/06/07 22:41:30 [92mIDE --> LS     CL: REQUEST initialize 0: [0m
+2021/06/07 22:41:30 IDE --> initialize 0 [93m locked[0m
+2021/06/07 22:41:30 IDE --> initialize 0 [93m unlocked[0m
+2021/06/07 22:41:30 [91mIDE <-- LS     CL: ANSWER UNBOUND (0): [0m
+2021/06/07 22:41:30 [92mIDE --> LS     CL: NOTIFICATION initialized: [0m
+2021/06/07 22:41:30 IDE --> initialized notif1 [93m read-locked[0m
+2021/06/07 22:41:30 IDE --> initialized notif1 notification is not propagated to clangd
+2021/06/07 22:41:30 IDE --> initialized notif1 [93m read-unlocked[0m
+2021/06/07 22:41:30 [92mIDE --> LS     CL: NOTIFICATION textDocument/didOpen: [0m
+2021/06/07 22:41:30 IDE --> textDocument/didOpen notif2 [93m locked[0m
+2021/06/07 22:41:30 IDE --> textDocument/didOpen notif2 (throttled: waiting for clangd)
+2021/06/07 22:41:30 IDE --> textDocument/didOpen notif2 [93m unlocked (waiting clangd)[0m
+2021/06/07 22:41:30 INIT--- initializing workbench
+2021/06/07 22:41:30 INIT--- [93m locked[0m
+2021/06/07 22:41:30     --> initialize(file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401)
+2021/06/07 22:41:30 running:  c:\00_Prog\arduino-ide_2.0.0-beta.7_Windows_64bit\resources\app\node_modules\arduino-ide-extension\build\arduino-cli.exe --config-file c:\Users\ILVZ\.arduinoIDE\arduino-cli.yaml compile --fqbn arduino:avr:pro --only-compilation-database --clean --source-override C:\Users\ILVZ\AppData\Local\Temp\657726434 --build-path C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server458408143 --format json C:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401
+2021/06/07 22:41:38 INIT--- initializing workbench (done)
+2021/06/07 22:41:38 INIT--- [93m unlocked[0m
+2021/06/07 22:41:38 IDE --> textDocument/didOpen notif2 [93m locked (waiting clangd)[0m
+2021/06/07 22:41:38 IDE --> textDocument/didOpen notif2 clangd startup failed: aborting call
+2021/06/07 22:41:38 IDE --> textDocument/didOpen notif2 (file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401/PJON_Base_Home0401.ino@1 as 'cpp')
+2021/06/07 22:41:38     increasing .ino tracked files count: 1
+2021/06/07 22:41:38 IDE --> textDocument/didOpen notif2 [93m unlocked[0m
+2021/06/07 22:41:38 Panic: runtime error: invalid memory address or nil pointer dereference
+
+goroutine 20 [running]:
+runtime/debug.Stack(0xad739e, 0x2, 0xc000244a00)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/arduino/arduino-language-server/streams.CatchAndLogPanic()
+	D:/a/arduino-language-server/arduino-language-server/streams/panics.go:14 +0xc6
+panic(0xa0a380, 0xfd8f40)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/panic.go:679 +0x1c0
+github.com/arduino/go-paths-helper.(*Path).String(...)
+	C:/Users/runneradmin/go/pkg/mod/github.com/arduino/go-paths-helper@v1.5.0/paths.go:565
+github.com/arduino/arduino-language-server/lsp.NewDocumentURIFromPath(...)
+	D:/a/arduino-language-server/arduino-language-server/lsp/uri.go:47
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppDocumentURI(0xc000141900, 0xc000288000, 0x4, 0x0, 0x0, 0x0, 0xc000288007, 0x0, 0xc00001e550, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:1026 +0x5a1
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppTextDocumentItem(0xc000141900, 0xc000288000, 0x4, 0x0, 0x0, 0x0, 0xc000288007, 0x0, 0xc00001e550, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:870 +0x98
+github.com/arduino/arduino-language-server/handler.(*InoHandler).didOpen(0xc000141900, 0xc000220840, 0xc000245920, 0x3, 0x3)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:837 +0x1f8
+github.com/arduino/arduino-language-server/handler.(*InoHandler).HandleMessageFromIDE(0xc000141900, 0xbb7620, 0xc00006c1d0, 0xc0001967e0, 0xc0002300a0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:312 +0x2b6d
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc00019a1a0, 0xbb7620, 0xc00006c1d0, 0xc0001967e0, 0xc0002300a0)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/handler_with_error.go:21 +0x7a
+github.com/sourcegraph/jsonrpc2.(*Conn).readMessages(0xc0001967e0, 0xbb7620, 0xc00006c1d0)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:522 +0x571
+created by github.com/sourcegraph/jsonrpc2.NewConn
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:334 +0x1e0
+
+
+
+
+
+
+
+
+Started logging.
+2021/06/07 22:41:39 logging to c:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401\inols.log
+2021/06/07 22:41:39 Initial board configuration: {"Arduino Pro or Pro Mini" arduino:avr:pro}
+2021/06/07 22:41:39 Language server build path: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server004307107
+2021/06/07 22:41:39 Language server build sketch root: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server004307107\sketch
+2021/06/07 22:41:39 [92mIDE --> LS     CL: REQUEST initialize 0: [0m
+2021/06/07 22:41:39 IDE --> initialize 0 [93m locked[0m
+2021/06/07 22:41:39 IDE --> initialize 0 [93m unlocked[0m
+2021/06/07 22:41:39 [91mIDE <-- LS     CL: ANSWER UNBOUND (0): [0m
+2021/06/07 22:41:39 [92mIDE --> LS     CL: NOTIFICATION initialized: [0m
+2021/06/07 22:41:39 IDE --> initialized notif1 [93m read-locked[0m
+2021/06/07 22:41:39 IDE --> initialized notif1 notification is not propagated to clangd
+2021/06/07 22:41:39 IDE --> initialized notif1 [93m read-unlocked[0m
+2021/06/07 22:41:39 [92mIDE --> LS     CL: NOTIFICATION textDocument/didOpen: [0m
+2021/06/07 22:41:39 IDE --> textDocument/didOpen notif2 [93m locked[0m
+2021/06/07 22:41:39 IDE --> textDocument/didOpen notif2 (throttled: waiting for clangd)
+2021/06/07 22:41:39 IDE --> textDocument/didOpen notif2 [93m unlocked (waiting clangd)[0m
+2021/06/07 22:41:39 INIT--- initializing workbench
+2021/06/07 22:41:39 INIT--- [93m locked[0m
+2021/06/07 22:41:39     --> initialize(file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401)
+2021/06/07 22:41:39 running:  c:\00_Prog\arduino-ide_2.0.0-beta.7_Windows_64bit\resources\app\node_modules\arduino-ide-extension\build\arduino-cli.exe --config-file c:\Users\ILVZ\.arduinoIDE\arduino-cli.yaml compile --fqbn arduino:avr:pro --only-compilation-database --clean --source-override C:\Users\ILVZ\AppData\Local\Temp\748834214 --build-path C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server004307107 --format json C:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401
+2021/06/07 22:41:46 INIT--- initializing workbench (done)
+2021/06/07 22:41:46 INIT--- [93m unlocked[0m
+2021/06/07 22:41:46 IDE --> textDocument/didOpen notif2 [93m locked (waiting clangd)[0m
+2021/06/07 22:41:46 IDE --> textDocument/didOpen notif2 clangd startup failed: aborting call
+2021/06/07 22:41:46 IDE --> textDocument/didOpen notif2 (file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401/PJON_Base_Home0401.ino@1 as 'cpp')
+2021/06/07 22:41:46     increasing .ino tracked files count: 1
+2021/06/07 22:41:46 IDE --> textDocument/didOpen notif2 [93m unlocked[0m
+2021/06/07 22:41:46 Panic: runtime error: invalid memory address or nil pointer dereference
+
+goroutine 7 [running]:
+runtime/debug.Stack(0xad739e, 0x2, 0xc000222a00)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/arduino/arduino-language-server/streams.CatchAndLogPanic()
+	D:/a/arduino-language-server/arduino-language-server/streams/panics.go:14 +0xc6
+panic(0xa0a380, 0xfd8f40)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/panic.go:679 +0x1c0
+github.com/arduino/go-paths-helper.(*Path).String(...)
+	C:/Users/runneradmin/go/pkg/mod/github.com/arduino/go-paths-helper@v1.5.0/paths.go:565
+github.com/arduino/arduino-language-server/lsp.NewDocumentURIFromPath(...)
+	D:/a/arduino-language-server/arduino-language-server/lsp/uri.go:47
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppDocumentURI(0xc000125900, 0xc000274000, 0x4, 0x0, 0x0, 0x0, 0xc000274007, 0x0, 0xc00023c370, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:1026 +0x5a1
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppTextDocumentItem(0xc000125900, 0xc000274000, 0x4, 0x0, 0x0, 0x0, 0xc000274007, 0x0, 0xc00023c370, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:870 +0x98
+github.com/arduino/arduino-language-server/handler.(*InoHandler).didOpen(0xc000125900, 0xc0001fa840, 0xc000223920, 0x3, 0x3)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:837 +0x1f8
+github.com/arduino/arduino-language-server/handler.(*InoHandler).HandleMessageFromIDE(0xc000125900, 0xbb7620, 0xc0000201e8, 0xc0001747e0, 0xc00020c0a0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:312 +0x2b6d
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc0001781c0, 0xbb7620, 0xc0000201e8, 0xc0001747e0, 0xc00020c0a0)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/handler_with_error.go:21 +0x7a
+github.com/sourcegraph/jsonrpc2.(*Conn).readMessages(0xc0001747e0, 0xbb7620, 0xc0000201e8)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:522 +0x571
+created by github.com/sourcegraph/jsonrpc2.NewConn
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:334 +0x1e0
+
+
+
+
+
+
+
+
+Started logging.
+2021/06/07 22:41:47 logging to c:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401\inols.log
+2021/06/07 22:41:47 Initial board configuration: {"Arduino Pro or Pro Mini" arduino:avr:pro}
+2021/06/07 22:41:47 Language server build path: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server490005251
+2021/06/07 22:41:47 Language server build sketch root: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server490005251\sketch
+2021/06/07 22:41:47 [92mIDE --> LS     CL: REQUEST initialize 0: [0m
+2021/06/07 22:41:47 IDE --> initialize 0 [93m locked[0m
+2021/06/07 22:41:47 IDE --> initialize 0 [93m unlocked[0m
+2021/06/07 22:41:47 [91mIDE <-- LS     CL: ANSWER UNBOUND (0): [0m
+2021/06/07 22:41:47 [92mIDE --> LS     CL: NOTIFICATION initialized: [0m
+2021/06/07 22:41:47 IDE --> initialized notif1 [93m read-locked[0m
+2021/06/07 22:41:47 IDE --> initialized notif1 notification is not propagated to clangd
+2021/06/07 22:41:47 IDE --> initialized notif1 [93m read-unlocked[0m
+2021/06/07 22:41:47 [92mIDE --> LS     CL: NOTIFICATION textDocument/didOpen: [0m
+2021/06/07 22:41:47 IDE --> textDocument/didOpen notif2 [93m locked[0m
+2021/06/07 22:41:47 IDE --> textDocument/didOpen notif2 (throttled: waiting for clangd)
+2021/06/07 22:41:47 IDE --> textDocument/didOpen notif2 [93m unlocked (waiting clangd)[0m
+2021/06/07 22:41:47 INIT--- initializing workbench
+2021/06/07 22:41:47 INIT--- [93m locked[0m
+2021/06/07 22:41:47     --> initialize(file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401)
+2021/06/07 22:41:47 running:  c:\00_Prog\arduino-ide_2.0.0-beta.7_Windows_64bit\resources\app\node_modules\arduino-ide-extension\build\arduino-cli.exe --config-file c:\Users\ILVZ\.arduinoIDE\arduino-cli.yaml compile --fqbn arduino:avr:pro --only-compilation-database --clean --source-override C:\Users\ILVZ\AppData\Local\Temp\124880006 --build-path C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server490005251 --format json C:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401
+2021/06/07 22:41:55 INIT--- initializing workbench (done)
+2021/06/07 22:41:55 INIT--- [93m unlocked[0m
+2021/06/07 22:41:55 IDE --> textDocument/didOpen notif2 [93m locked (waiting clangd)[0m
+2021/06/07 22:41:55 IDE --> textDocument/didOpen notif2 clangd startup failed: aborting call
+2021/06/07 22:41:55 IDE --> textDocument/didOpen notif2 (file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401/PJON_Base_Home0401.ino@1 as 'cpp')
+2021/06/07 22:41:55     increasing .ino tracked files count: 1
+2021/06/07 22:41:55 IDE --> textDocument/didOpen notif2 [93m unlocked[0m
+2021/06/07 22:41:55 Panic: runtime error: invalid memory address or nil pointer dereference
+
+goroutine 7 [running]:
+runtime/debug.Stack(0xad739e, 0x2, 0xc000232a00)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/arduino/arduino-language-server/streams.CatchAndLogPanic()
+	D:/a/arduino-language-server/arduino-language-server/streams/panics.go:14 +0xc6
+panic(0xa0a380, 0xfd8f40)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/panic.go:679 +0x1c0
+github.com/arduino/go-paths-helper.(*Path).String(...)
+	C:/Users/runneradmin/go/pkg/mod/github.com/arduino/go-paths-helper@v1.5.0/paths.go:565
+github.com/arduino/arduino-language-server/lsp.NewDocumentURIFromPath(...)
+	D:/a/arduino-language-server/arduino-language-server/lsp/uri.go:47
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppDocumentURI(0xc0001ea000, 0xc0001e0240, 0x4, 0x0, 0x0, 0x0, 0xc0001e0247, 0x0, 0xc0001d8d70, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:1026 +0x5a1
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppTextDocumentItem(0xc0001ea000, 0xc0001e0240, 0x4, 0x0, 0x0, 0x0, 0xc0001e0247, 0x0, 0xc0001d8d70, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:870 +0x98
+github.com/arduino/arduino-language-server/handler.(*InoHandler).didOpen(0xc0001ea000, 0xc00020e840, 0xc000233920, 0x3, 0x3)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:837 +0x1f8
+github.com/arduino/arduino-language-server/handler.(*InoHandler).HandleMessageFromIDE(0xc0001ea000, 0xbb7620, 0xc0000201e8, 0xc0001787e0, 0xc00021e0a0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:312 +0x2b6d
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc00017c1b0, 0xbb7620, 0xc0000201e8, 0xc0001787e0, 0xc00021e0a0)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/handler_with_error.go:21 +0x7a
+github.com/sourcegraph/jsonrpc2.(*Conn).readMessages(0xc0001787e0, 0xbb7620, 0xc0000201e8)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:522 +0x571
+created by github.com/sourcegraph/jsonrpc2.NewConn
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:334 +0x1e0
+
+
+
+
+
+
+
+
+Started logging.
+2021/06/07 22:41:56 logging to c:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401\inols.log
+2021/06/07 22:41:56 Initial board configuration: {"Arduino Pro or Pro Mini" arduino:avr:pro}
+2021/06/07 22:41:56 Language server build path: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server198334487
+2021/06/07 22:41:56 Language server build sketch root: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server198334487\sketch
+2021/06/07 22:41:56 [92mIDE --> LS     CL: REQUEST initialize 0: [0m
+2021/06/07 22:41:56 IDE --> initialize 0 [93m locked[0m
+2021/06/07 22:41:56 IDE --> initialize 0 [93m unlocked[0m
+2021/06/07 22:41:56 [91mIDE <-- LS     CL: ANSWER UNBOUND (0): [0m
+2021/06/07 22:41:56 [92mIDE --> LS     CL: NOTIFICATION initialized: [0m
+2021/06/07 22:41:56 IDE --> initialized notif1 [93m read-locked[0m
+2021/06/07 22:41:56 IDE --> initialized notif1 notification is not propagated to clangd
+2021/06/07 22:41:56 IDE --> initialized notif1 [93m read-unlocked[0m
+2021/06/07 22:41:56 [92mIDE --> LS     CL: NOTIFICATION textDocument/didOpen: [0m
+2021/06/07 22:41:56 IDE --> textDocument/didOpen notif2 [93m locked[0m
+2021/06/07 22:41:56 IDE --> textDocument/didOpen notif2 (throttled: waiting for clangd)
+2021/06/07 22:41:56 IDE --> textDocument/didOpen notif2 [93m unlocked (waiting clangd)[0m
+2021/06/07 22:41:56 INIT--- initializing workbench
+2021/06/07 22:41:56 INIT--- [93m locked[0m
+2021/06/07 22:41:56     --> initialize(file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401)
+2021/06/07 22:41:56 running:  c:\00_Prog\arduino-ide_2.0.0-beta.7_Windows_64bit\resources\app\node_modules\arduino-ide-extension\build\arduino-cli.exe --config-file c:\Users\ILVZ\.arduinoIDE\arduino-cli.yaml compile --fqbn arduino:avr:pro --only-compilation-database --clean --source-override C:\Users\ILVZ\AppData\Local\Temp\064670858 --build-path C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server198334487 --format json C:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401
+2021/06/07 22:42:03 INIT--- initializing workbench (done)
+2021/06/07 22:42:03 INIT--- [93m unlocked[0m
+2021/06/07 22:42:03 IDE --> textDocument/didOpen notif2 [93m locked (waiting clangd)[0m
+2021/06/07 22:42:03 IDE --> textDocument/didOpen notif2 clangd startup failed: aborting call
+2021/06/07 22:42:03 IDE --> textDocument/didOpen notif2 (file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401/PJON_Base_Home0401.ino@1 as 'cpp')
+2021/06/07 22:42:03     increasing .ino tracked files count: 1
+2021/06/07 22:42:03 IDE --> textDocument/didOpen notif2 [93m unlocked[0m
+2021/06/07 22:42:03 Panic: runtime error: invalid memory address or nil pointer dereference
+
+goroutine 7 [running]:
+runtime/debug.Stack(0xad739e, 0x2, 0xc000226a00)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/arduino/arduino-language-server/streams.CatchAndLogPanic()
+	D:/a/arduino-language-server/arduino-language-server/streams/panics.go:14 +0xc6
+panic(0xa0a380, 0xfd8f40)
+	C:/hostedtoolcache/windows/go/1.13.15/x64/src/runtime/panic.go:679 +0x1c0
+github.com/arduino/go-paths-helper.(*Path).String(...)
+	C:/Users/runneradmin/go/pkg/mod/github.com/arduino/go-paths-helper@v1.5.0/paths.go:565
+github.com/arduino/arduino-language-server/lsp.NewDocumentURIFromPath(...)
+	D:/a/arduino-language-server/arduino-language-server/lsp/uri.go:47
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppDocumentURI(0xc000125900, 0xc000278000, 0x4, 0x0, 0x0, 0x0, 0xc000278007, 0x0, 0xc000240370, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:1026 +0x5a1
+github.com/arduino/arduino-language-server/handler.(*InoHandler).ino2cppTextDocumentItem(0xc000125900, 0xc000278000, 0x4, 0x0, 0x0, 0x0, 0xc000278007, 0x0, 0xc000240370, 0x4a, ...)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:870 +0x98
+github.com/arduino/arduino-language-server/handler.(*InoHandler).didOpen(0xc000125900, 0xc0001fe840, 0xc000227920, 0x3, 0x3)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:837 +0x1f8
+github.com/arduino/arduino-language-server/handler.(*InoHandler).HandleMessageFromIDE(0xc000125900, 0xbb7620, 0xc0000201e8, 0xc0001767e0, 0xc0002100a0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/arduino-language-server/arduino-language-server/handler/handler.go:312 +0x2b6d
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc00017a1c0, 0xbb7620, 0xc0000201e8, 0xc0001767e0, 0xc0002100a0)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/handler_with_error.go:21 +0x7a
+github.com/sourcegraph/jsonrpc2.(*Conn).readMessages(0xc0001767e0, 0xbb7620, 0xc0000201e8)
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:522 +0x571
+created by github.com/sourcegraph/jsonrpc2.NewConn
+	C:/Users/runneradmin/go/pkg/mod/github.com/sourcegraph/jsonrpc2@v0.0.0-20200429184054-15c2290dcb37/jsonrpc2.go:334 +0x1e0
+
+
+
+
+
+
+
+
+Started logging.
+2021/06/07 22:42:04 logging to c:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401\inols.log
+2021/06/07 22:42:04 Initial board configuration: {"Arduino Pro or Pro Mini" arduino:avr:pro}
+2021/06/07 22:42:04 Language server build path: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server665411631
+2021/06/07 22:42:04 Language server build sketch root: C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server665411631\sketch
+2021/06/07 22:42:04 [92mIDE --> LS     CL: REQUEST initialize 0: [0m
+2021/06/07 22:42:04 IDE --> initialize 0 [93m locked[0m
+2021/06/07 22:42:04 IDE --> initialize 0 [93m unlocked[0m
+2021/06/07 22:42:04 [91mIDE <-- LS     CL: ANSWER UNBOUND (0): [0m
+2021/06/07 22:42:04 INIT--- initializing workbench
+2021/06/07 22:42:04 INIT--- [93m locked[0m
+2021/06/07 22:42:04     --> initialize(file:///c%3A/Users/ILVZ/Documents/Arduino/PJON_Base_Home0401)
+2021/06/07 22:42:04 [92mIDE --> LS     CL: NOTIFICATION initialized: [0m
+2021/06/07 22:42:04 running:  c:\00_Prog\arduino-ide_2.0.0-beta.7_Windows_64bit\resources\app\node_modules\arduino-ide-extension\build\arduino-cli.exe --config-file c:\Users\ILVZ\.arduinoIDE\arduino-cli.yaml compile --fqbn arduino:avr:pro --only-compilation-database --clean --source-override C:\Users\ILVZ\AppData\Local\Temp\221768642 --build-path C:\Users\ILVZ\AppData\Local\Temp\arduino-language-server665411631 --format json C:\Users\ILVZ\Documents\Arduino\PJON_Base_Home0401
+2021/06/07 22:42:11 INIT--- initializing workbench (done)
+2021/06/07 22:42:11 INIT--- [93m unlocked[0m
+2021/06/07 22:42:11 IDE --> initialized notif1 [93m read-locked[0m
+2021/06/07 22:42:11 IDE --> initialized notif1 notification is not propagated to clangd
+2021/06/07 22:42:11 IDE --> initialized notif1 [93m read-unlocked[0m
+2021/06/07 22:42:11 [92mIDE --> LS     CL: NOTIFICATION textDocument/didOpen: [0m
+2021/06/07 22:42:11 IDE --> textDocument/didOpen notif2 [93m locked[0m
+2021/06/07 22:42:11 IDE --> textDocument/didOpen notif2 (throttled: waiting for clangd)
+2021/06/07 22:42:11 IDE --> textDocument/didOpen notif2 [93m unlocked (waiting clangd)[0m
